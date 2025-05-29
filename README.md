@@ -1,1 +1,3 @@
-# metatrader5
+# README
+Pythonを使ってMetaTrader5からExcelファイルにトレード履歴を出力できます。
+トレードノートのテンプレあり。
